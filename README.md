@@ -1,4 +1,4 @@
-### Hello everyone, I am Flawbert Lorran! 
+### Hello everyone, I am Flawbert Costa! 
 
 
 - 🌱 I’m currently learning (MORE) Python
@@ -29,7 +29,7 @@
 
 <div> 
   <a href="https://instagram.com/flawbertlorran" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>	
-  <a href = "mailto:contato.flawberrlorran@hotmail.com"><img src="https://img.shields.io/badge/-Outlook-%23333?style=for-the-badge&logo=outlook&logoColor=white" target="_blank"></a>
+  <a href = "mailto:contato.flawberrlorran@hotmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/flawbert-lorran-795530220" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div>
