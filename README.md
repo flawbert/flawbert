@@ -6,20 +6,11 @@
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I really love Bootstrap
 
-<picture>
-<source
-  srcset="https://github-readme-stats.vercel.app/api?username=flawbert&show_icons=true&theme=dark"
-  media="(prefers-color-scheme: dark)"
-/>
-<source
-  srcset="https://github-readme-stats.vercel.app/api?username=flawbert&show_icons=true"
-  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-/>
-<img src="https://github-readme-stats.vercel.app/api?username=flawbert&show_icons=true" />
-</picture>
-
 <div align="center">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=flawbert&layout=compact&langs_count=7&theme=dark"/>
+  <a href="https://github.com/dinorahfariasc">
+    
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=flawbert&show_icons=true&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=flawbert&layout=compact&langs_count=7&theme=tokyonight"/>   
 </div>
 
 <div style="display: inline_block"><br>
