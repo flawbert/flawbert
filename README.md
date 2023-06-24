@@ -7,7 +7,7 @@
 - ⚡ Fun fact: I really love Bootstrap
 
 <div align="center">
-  <a href="https://github.com/dinorahfariasc">
+  <a href="https://github.com/flawbert">
     
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=flawbert&show_icons=true&theme=tokyonight"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=flawbert&layout=compact&langs_count=7&theme=tokyonight"/>   
