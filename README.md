@@ -2,7 +2,7 @@
 
 
 - 🌱 I’m currently learning Python
-- 👨🏾‍💻 I'm a full-stack developer
+- 👨🏾‍💻 I'm working to be full-stack developer
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I really love Bootstrap
 
