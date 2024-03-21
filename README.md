@@ -1,7 +1,7 @@
 ### Hello everyone, I am Flawbert Costa! 
 
 
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning C++
 - 👨🏾‍💻 I'm working to be full-stack developer
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I really love Bootstrap
