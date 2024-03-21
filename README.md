@@ -3,8 +3,8 @@
 
 - 🌱 I’m currently learning C++
 - 👨🏾‍💻 I'm working to be full-stack developer
-- 😄 Pronouns: he/him
 - ⚡ Fun fact: I really love Bootstrap
+- :busts_in_silhouette: I would like to work with UI/UX
 
 <div align="center">
   <a href="https://github.com/flawbert">
