@@ -1,5 +1,8 @@
-### Hello everyone, I am Flawbert Costa! 
-
+<h1 align="center">
+  <a href="#">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hey,+There!+👋;I'm+Flawbert+Costa;and+I'm+an+IT+Scholar!&center=true&size=28">
+  </a>
+</h1>
 
 - 🌱 I’m currently learning C++
 - 👨🏾‍💻 I'm working to be full-stack developer
