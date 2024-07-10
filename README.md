@@ -4,7 +4,7 @@
   </a>
 </h1>
 
-- 🌱 I’m currently learning C++
+- 🌱 I’m currently learning C++, C# and React Native
 - 👨🏾‍💻 I'm working to be full-stack developer
 - ⚡ Fun fact: I really love Bootstrap
 - :busts_in_silhouette: I would like to work with UI/UX
