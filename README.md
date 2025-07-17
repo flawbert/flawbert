@@ -39,7 +39,7 @@
 </div>
 
 ---
-<h2> Contact Me</h2>
+<h2> <img src="https://github.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/blob/main/Objects/Telephone.webp" alt= "Telephone" width="30" height="30" /> Contact me</h2>
 
   <a href="https://instagram.com/flawbertlorran" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>	
   <a href = "mailto:contato.flawberrlorran@hotmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
