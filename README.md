@@ -7,7 +7,7 @@
 - 🌱 I’m currently learning C++, C# and React Native
 - 👨🏾‍💻 I'm working to be full-stack developer
 - ⚡ Fun fact: I really love Bootstrap
-- :busts_in_silhouette: I would like to work with UI/UX
+- :busts_in_silhouette: I would like to work in something with social impact
 
 <div align="center">
   <a href="https://github.com/flawbert">
