@@ -8,12 +8,11 @@
 - 👨🏾‍💻 I'm working to be full-stack developer
 - ⚡ Fun fact: I really love Bootstrap
 - :busts_in_silhouette: I would like to work in something with social impact
-
-<div align="center">
-  <a href="https://github.com/flawbert">
-    
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=flawbert&show_icons=true&theme=tokyonight"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=flawbert&layout=compact&langs_count=7&theme=tokyonight"/>   
+  <br>
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center;">
+  <!-- GitHub Stats Cards -->
+  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=flawbert&show_icons=true&locale=en&theme=blueberry&rank_icon=github&card_width=100" />
+  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=flawbert&theme=blueberry&layout=compact&card_width=100">
 </div>
 
 <div style="display: inline_block"><br>
