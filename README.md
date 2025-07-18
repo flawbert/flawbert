@@ -1,3 +1,4 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4A3F59&height=120&section=header"/>
 <h1 align="center">
   <a href="#">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hey,+there!+👋;I+am+Flawbert+Costa;and+I+am+an+IT+Student!&center=true&size=28">
@@ -48,4 +49,5 @@
 ---
 
   [![flawbert's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=flawbert&theme=vue&line=ff7033&point=df2063&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-  
+
+  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4A3F59&height=120&section=footer"/>
