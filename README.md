@@ -12,8 +12,8 @@
   <br>
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center;">
   <!-- GitHub Stats Cards -->
-  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=flawbert&show_icons=true&locale=en&theme=blueberry&rank_icon=github&card_width=100" />
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=flawbert&theme=blueberry&layout=compact&card_width=100">
+  <img height="140em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=flawbert&show_icons=true&theme=tokyonight" />
+  <img height="140em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=flawbert&layout=compact&langs_count=8&include_all_commits=true&count_private=true&theme=tokyonight">
 </div>
 
 ---
