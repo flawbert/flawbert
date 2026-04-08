@@ -5,9 +5,9 @@
   </a>
 </h1>
 
-- 🌱 I’m currently learning and developing with .NET, C# and React Native
+- 🌱 I’m currently an student and intern working with .NET and React
 - 👨🏾‍💻 I'm working to be full-stack developer
-- ⚡ Fun fact: I really love Bootstrap
+- ⚡ Fun fact: I really love front-end
 - :busts_in_silhouette: I would like to work in something with social impact
   <br>
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center;">
